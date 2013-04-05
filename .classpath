@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/commons-io/commons-io/2.2/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/com/sun/jersey/jersey-core/1.12/jersey-core-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/com/sun/jersey/jersey-client/1.12/jersey-client-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/com/sun/jersey/contribs/jersey-apache-client/1.12/jersey-apache-client-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/commons-codec/commons-codec/1.4/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/zviad/.m2/repo_arqive/jaxen/jaxen/1.1.3/jaxen-1.1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
